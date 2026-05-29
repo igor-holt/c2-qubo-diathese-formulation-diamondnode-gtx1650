@@ -1,0 +1,1 @@
+(C2 integrated - see /Users/Igor/diamondnode-ops/run_bench.sh ; auto calls diathese_to_qubo.py --c2 for paired clean JSON stats with bench for G1/G2 evidence.)

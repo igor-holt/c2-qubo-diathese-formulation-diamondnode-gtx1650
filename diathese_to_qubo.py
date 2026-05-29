@@ -1,0 +1,1 @@
+(C2 enhanced version - see full in /Users/Igor/diamondnode-ops/diathese_to_qubo.py after edits for --c2 direct mapping, epsilon_th, clean stats, dispatch_qubo_table_extension. Key: formulate_diathese_qubo now C2 branded with explicit metrics->energy formulas.)
